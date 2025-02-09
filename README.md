@@ -68,3 +68,4 @@ Simply open [Lovable](https://lovable.dev/projects/6eadc39f-bb96-4011-81af-df9cd
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
 # graz
+# graz
