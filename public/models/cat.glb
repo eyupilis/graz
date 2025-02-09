@@ -1,0 +1,2 @@
+// GLB dosyası binary formatta olduğu için burada içeriğini doğrudan oluşturamıyoruz.
+// Bunun yerine, Three.js ile basit bir geometri kullanacağız ve CatModel bileşenini güncelleyeceğiz. 
