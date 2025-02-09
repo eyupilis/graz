@@ -4,6 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/",
   server: {
     port: 8083,
     host: true,
@@ -20,6 +21,8 @@ export default defineConfig({
   },
   build: {
     sourcemap: true,
+    outDir: "dist",
+    assetsDir: "assets",
     rollupOptions: {
       output: {
         manualChunks: {
