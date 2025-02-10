@@ -22,42 +22,35 @@ const categories = [
     route: '/cat-products',
     image: '/images/categories/Untitled design.svg',
     products: [
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.28.56.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.00 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.00 (2).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.00.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.01 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.01 (2).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.01.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.02 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.02 (2).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.02 (3).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.02.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.03 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.03 (2).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.03 (3).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.03.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.04 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.04 (2).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.04 (3).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.04.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.05 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.05 (2).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.05.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.06 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.06 (2).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.06 (3).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.06.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.07 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.07 (2).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.07.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.11.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.14.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.15 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.15.jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.16 (1).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.16 (2).jpeg',
-      '/images/categories/cat products/WhatsApp Image 2025-02-06 at 21.29.16.jpeg'
+      '/images/categories/cat products/Baby Powder Scented_Cat Litter_net:20Le_net:10Le_net:5Le.jpeg',
+      '/images/categories/cat products/Beef Chunk_Adult_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/cat products/Beef Chunk_Adult_Chunks in Gravy_400gr(1).jpeg',
+      '/images/categories/cat products/Beef_Adult _ All Breed_Chunk in Jelly_85gr.jpeg',
+      '/images/categories/cat products/Chicken & Rice_Adult_Multi Color_15kg.jpeg',
+      '/images/categories/cat products/Chicken & Rice_Adult_Multi Color_15kg(1).jpeg',
+      '/images/categories/cat products/Chicken & Rice_Adult_Multi Color_15kg(2).jpeg',
+      '/images/categories/cat products/Chicken & Rice_Kitten_15kg.(1).jpeg',
+      '/images/categories/cat products/Chicken & Rice_Kitten_15kg.jpeg',
+      '/images/categories/cat products/Chicken Chunk_Adult_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/cat products/Chicken Chunk_Adult_Chunks in Gravy_400gr(1).jpeg',
+      '/images/categories/cat products/Chicken Chunk_Adult_Chunks in Gravy_400gr(2).jpeg',
+      '/images/categories/cat products/Chicken Chunk_Kitten_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/cat products/Chicken Chunk_Kitten_Chunks in Gravy_400gr(1).jpeg',
+      '/images/categories/cat products/Chicken Chunk_Kitten_Chunks in Gravy_400gr(2).jpeg',
+      '/images/categories/cat products/Chicken_Adult_All Breed_Chunk in Jelly_85gr.jpeg',
+      '/images/categories/cat products/Chicken_Adult_Biotin&Folic Acid Additive_415gr.jpeg',
+      '/images/categories/cat products/Chicken_Kitten_Biotin&Folic Acid Additive_415gr.jpeg',
+      '/images/categories/cat products/Lamb Chunk_Adult_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/cat products/Lamb Chunk_Adult_Chunks in Gravy_400gr(1).jpeg',
+      '/images/categories/cat products/Lamb_Adult_All Breed_Chunk in Jelly_85gr.jpeg',
+      '/images/categories/cat products/Lamb_Adult_Biotin&Folic Acid Additive_415gr.jpeg',
+      '/images/categories/cat products/Lamb_Kitten_Al Breed_Chunk in Jelly_85gr.jpeg',
+      '/images/categories/cat products/Lavender Scented_Cat Litter_net:20Le_net:10Le_net:5Le.jpeg',
+      '/images/categories/cat products/Marseille Soap Scented_Cat Litter_net:20Le_net:10Le_net:5Le.jpeg',
+      '/images/categories/cat products/Salmon Chunk_Adult_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/cat products/Salmon Chunk_Adult_Chunks in Gravy_400gr(1).jpeg',
+      '/images/categories/cat products/Salmon_Adult_All Breed_Chunk in Jelly_85gr.jpeg',
+      '/images/categories/cat products/Salmon_Adult_Biotin&Folic Acid Additive_415gr.jpeg'
     ]
   },
   {
@@ -69,21 +62,18 @@ const categories = [
     route: '/dog-products',
     image: '/images/categories/dog products/kopek_3.png',
     products: [
-      '/images/categories/dog products/kopek_1.png',
-      '/images/categories/dog products/kopek_2.png',
-      '/images/categories/dog products/kopek_3.png',
-      '/images/categories/dog products/kopek_4.png',
-      '/images/categories/dog products/kopek_5.png',
-      '/images/categories/dog products/kopek_1.png',
-      '/images/categories/dog products/kopek_2.png',
-      '/images/categories/dog products/kopek_3.png',
-      '/images/categories/dog products/kopek_4.png',
-      '/images/categories/dog products/kopek_5.png',
-      '/images/categories/dog products/kopek_1.png',
-      '/images/categories/dog products/kopek_2.png',
-      '/images/categories/dog products/kopek_3.png',
-      '/images/categories/dog products/kopek_4.png',
-      '/images/categories/dog products/kopek_5.png'
+      '/images/categories/dog products/Beef Chunk_Adult_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/dog products/Beef Chunk_Adult_Chunks in Gravy_400gr.png',
+      '/images/categories/dog products/Chicken Chunk_Adult_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/dog products/Chicken Chunk_Adult_Chunks in Gravy_400gr.png',
+      '/images/categories/dog products/Lamb & Rice_Adult_Multi Color_15kg.jpeg',
+      '/images/categories/dog products/Lamb & Rice_Puppy_15kg.jpeg',
+      '/images/categories/dog products/Lamb Chunk_Adult_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/dog products/Lamb Chunk_Adult_Chunks in Gravy_400gr.png',
+      '/images/categories/dog products/Lamb Chunk_Puppy_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/dog products/Lamb Chunk_Puppy_Chunks in Gravy_400gr.png',
+      '/images/categories/dog products/Salmon Chunk_Adult_Chunks in Gravy_400gr.jpeg',
+      '/images/categories/dog products/Salmon Chunk_Adult_Chunks in Gravy_400gr.png'
     ]
   }
 ]
@@ -160,8 +150,16 @@ const ProductGallery = () => {
 
   // Tüm ürünleri birleştir
   const allProducts = [
-    ...categories[0].products.map(image => ({ image, type: 'Cat Product', route: '/cat-products' })),
-    ...categories[1].products.map(image => ({ image, type: 'Dog Product', route: '/dog-products' }))
+    ...categories[0].products.map(image => ({ 
+      image: image.replace(/cat products\/([^/]+)/, 'cat products/$1'),
+      type: 'Cat Product', 
+      route: '/cat-products' 
+    })),
+    ...categories[1].products.map(image => ({ 
+      image: image.replace(/dog products\/([^/]+)/, 'dog products/$1'),
+      type: 'Dog Product', 
+      route: '/dog-products' 
+    }))
   ]
 
   const handleDragStart = (e) => {
